@@ -10,9 +10,9 @@
     padding: 20px;
 }
 
-.work {
+.work, .work p {
     display: inline-flexbox;
-    text-align: left;
+    text-align: center;
     margin: 20px;
     padding: 20px;
 }
