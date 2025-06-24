@@ -1,0 +1,17 @@
+/* Record CSS */
+
+.works  {
+    text-align: center;
+    display: flex;
+    background-color: antiquewhite;
+    border-radius: 10px;
+    color: black;
+    margin: 20px;
+    padding: 20px;
+}
+
+.work, .work p {
+    text-align: left;
+    margin: 20px;
+    padding: 20px;
+}
